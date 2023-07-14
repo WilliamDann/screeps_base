@@ -15,7 +15,7 @@ The first step to use the screeps base template is cloning this repo. The comman
 git clone https://github.com/WilliamDann/screeps_base.git
 ```
 
-### 2. Modify your .screeps.json
+### 2. Create your .screeps.json
 
 The .screeps.json file is configuration for the screeps grunt worker. Below is an example of a .screeps.json file:
 
