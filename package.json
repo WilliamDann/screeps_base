@@ -1,13 +1,13 @@
 {
-  "name": "screeps_ants",
+  "name": "screeps_base",
   "version": "1.0.0",
-  "description": "A screeps bot based of ant colonies",
+  "description": "A base repo for a typescript screeps bot",
   
   "scripts": {
       "clean": "rimraf dist/ && rimraf bin/",
       "build": "npm run clean && tsc -p tsconfig.json",
       "push" : "npm run build && grunt",
-      
+
       "test": "echo \"Error: no test specified\" && exit 1"
   },
 
